@@ -17,12 +17,14 @@ The shader for the water creates ripples (bright red) that move around. Made wit
 ![Screenshot_42](https://user-images.githubusercontent.com/47297140/115116475-88da1500-9f91-11eb-85e9-2eea8445751e.png)
 
 ![Screenshot_43](https://user-images.githubusercontent.com/47297140/115116476-8aa3d880-9f91-11eb-810a-e213afe3478a.png)
+
 The scene has lights coming from the temple that rotate and light up the environment. The scene also includes flashes of lightning that cast light on the planet surface.
 
 ![image](https://user-images.githubusercontent.com/47297140/115116514-c343b200-9f91-11eb-9160-8326c1d02b1d.png)
 
 The scene has lightning effects, rain, some dark fog and clouds. Lightning, rain, clouds were done with the particle system.
 
-Shaders for some of the world objects, including a shader that glitches out and is written with HLSL.
 
 ![Screenshot_44](https://user-images.githubusercontent.com/47297140/115116533-e1a9ad80-9f91-11eb-8842-9f8bf865f745.png)
+
+Shaders for some of the world objects, including a shader that glitches out and is written with HLSL.
